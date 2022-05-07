@@ -12,8 +12,8 @@ Files
 
   run_analysis.R: performs data preparation and cleaning
   
-  final_data.csv: final output of the operations performed by                          run_analysis.R
+  final_data.csv: final output of the operations performed by run_analysis.R
   
-  CodeBook.md: describes the variables, date sets and transformations
-               performed
-  Folder Output: Contains sample_output.pdf
+  CodeBook.md: describes the variables, date sets and transformations performed
+  
+  sample_output.pdf: sample output from final_data data set
